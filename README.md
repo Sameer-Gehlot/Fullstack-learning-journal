@@ -1,4 +1,4 @@
-fullstack-learning-journal
+#fullstack-learning-journal
 
 Documenting my day-wise learning as I become a Full Stack Developer (Sheryians Coding School — Cohort 2.0).
 
