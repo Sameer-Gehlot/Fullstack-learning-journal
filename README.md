@@ -5,5 +5,5 @@ Documenting my day-wise learning as I become a Full Stack Developer (Sheryians C
 
 ## 📂 Structure
 
-01-Internet-Fundamentals/ — basic networking & web fundamentals
+01-Internet-Fundamentals — basic networking & web fundamentals
 
